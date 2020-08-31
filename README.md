@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**matsoftware/matsoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github space. I'm Mattia Campolese, an enthusiast engineer, mostly focused on the mobile ecosystem. 
 
-Here are some ideas to get you started:
+## Current active open projects 🔭 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Swift Code Metrics](https://github.com/matsoftware/swift-code-metrics): code metrics analyzer for Swift projects
+- [Accept Language Parser](https://github.com/matsoftware/accept-language-parser): Lightweight HTTP RFC-2616 Accept-Language parser in Swift
+- [CaterAllen App](https://github.com/matsoftware/CaterAllenApp): unofficial iOS banking app for CaterAllen customers
+
+## Experiments 🧪
+
+- [Locale Enumerable](https://github.com/matsoftware/LocaleEnumerable): example of CaseIterable enum protocol conformance applied to string's localization in iOS.
+- [Room Project](https://github.com/matsoftware/RoomProject): An open source (3D code rendered almost 16+ years ago) room 
+
+## Articles 📰
+
+You will find some articles on my [Medium](https://medium.com/@matsoftware) profile or on my personal [blog](https://www.matsoftware.it) (in italian).
+
+## Contacts
+
+Please add me on [LinkedIn]() or follow me on Twitter ( @matsoftware ).
