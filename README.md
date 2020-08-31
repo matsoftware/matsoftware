@@ -19,4 +19,4 @@ You will find some articles on my [Medium](https://medium.com/@matsoftware) prof
 
 ## Contacts
 
-Please add me on [LinkedIn]() or follow me on Twitter ( @matsoftware ).
+Please add me on [LinkedIn](https://www.linkedin.com/in/matcamp/) or follow me on Twitter ( @matsoftware ).
