@@ -2,6 +2,8 @@
 
 Welcome to my Github space. I'm Mattia Campolese, an enthusiast engineer mostly focused on the mobile ecosystem. 
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=matsoftware)](https://github.com/matsoftware/github-readme-stats)
+
 ## Current active open projects 🔭 
 
 - [Accept Language Parser](https://github.com/matsoftware/accept-language-parser): Lightweight HTTP RFC-2616 Accept-Language parser in Swift
