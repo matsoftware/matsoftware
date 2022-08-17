@@ -1,6 +1,6 @@
 ### Ciao! 👋
 
-Welcome to my Github space. I'm Mattia Campolese, an enthusiast engineer mostly focused on the mobile ecosystem. 
+Welcome to my Github space. I'm Mattia Campolese, an enthusiast engineer mainly focused on the mobile ecosystem. 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=matsoftware)](https://github.com/matsoftware/github-readme-stats)
 
@@ -20,6 +20,11 @@ Welcome to my Github space. I'm Mattia Campolese, an enthusiast engineer mostly 
 
 You will find some articles on my [Medium](https://medium.com/@matsoftware) profile or on my personal [blog](https://www.matsoftware.it) (in italian).
 
+## Interviews 🎙
+
+- [The Do’s and Don’ts when Scaling Business - Podcast interview for Venturi’s voice](https://open.spotify.com/episode/5O3goGfCVteCMG4s8T9KnJ?si=9613563f7a49426c)
+- [Raion PODCAST #24: Mattia Campolese - Head of Software Engineering (FE) at Zopa](https://www.youtube.com/watch?v=7vvXDAf5Z90)
+
 ## Contacts
 
-Please add me on [LinkedIn](https://www.linkedin.com/in/matcamp/) or follow me on Twitter ( @matsoftware ).
+Please add me on [LinkedIn](https://www.linkedin.com/in/matcamp/).
